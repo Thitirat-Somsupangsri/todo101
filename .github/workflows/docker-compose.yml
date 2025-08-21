@@ -33,3 +33,5 @@ jobs:
         run: |
           docker tag todo101-todo-frontend thitirateiei/todo-frontend:latest
           docker push thitirateiei/todo-frontend:latest
+
+          
